@@ -9,3 +9,4 @@
 
 ## References
 * https://github.com/abg3/Smoke-Detection-using-Tensorflow-2.2
+* https://github.com/ultralytics/yolov5
